@@ -8,6 +8,8 @@ A web app which converts 360° panoramas to six cube faces
 * Runs in your browser by using the Canvas API to manipulate image data.
 * Uses Lanczos interpolation for high quality output.
 * Ability to rotate cubemap to control the orientation of the scene.
-
-^^^^ -> equi
-vvvv
+  
+^^^^ -> equi  
+vvvv  
+  
+draw animation with backgrounds on transparent paper with ruler and protractor, screen with 3d dummy or pano in the background  
